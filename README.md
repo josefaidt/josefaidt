@@ -1,6 +1,11 @@
-<a href="https://github.com/josefaidt/josefaidt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefaidt&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/josefaidt/josefaidt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=josefaidt&show_icons=true&count_private=true&hide=issues&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117&hide_border=true" />
-</a>
+<img width="2400" height="800" alt="image" src="https://github.com/user-attachments/assets/dbd33975-73f6-499e-9b5d-abe3b9a0f2dd" />
+
+---
+
+:wave:, I'm Josef
+
+product manager at [@aws-amplify](https://github.com/aws-amplify), based in Washington
+
+I like building things on the side. developer tooling, themes, or whatever sounds fun.
+
+currently building with TypeScript, Astro, Bun

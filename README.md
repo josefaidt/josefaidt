@@ -4,8 +4,6 @@
 
 :wave:, I'm Josef
 
-product manager at [@aws-amplify](https://github.com/aws-amplify), based in Washington
-
 I like building things on the side. developer tooling, themes, or whatever sounds fun.
 
 currently building with TypeScript, Astro, Bun
